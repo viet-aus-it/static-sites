@@ -1,0 +1,16 @@
+{
+  "name": "static-sites",
+  "version": "1.0.0",
+  "description": "VAIT Static Sites",
+  "packageManager": "pnpm@10.26.1",
+  "devDependencies": {
+    "wrangler": "^4.68.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "sharp",
+      "workerd"
+    ]
+  }
+}
