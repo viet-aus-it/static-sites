@@ -8,4 +8,6 @@ Each folder in this directory will represent a site that links to the same subdo
 | Dir  | Site                                         |
 | -----| -------------------------------------------- |
 | chat | [https://chat.vait.au](https://chat.vait.au) |
-
+| fb   | [https://fb.vait.au](https://fb.vait.au)     |
+| linkedin | [https://linkedin.vait.au](https://linkedin.vait.au) |
+| yt   | [https://yt.vait.au](https://yt.vait.au)     |
