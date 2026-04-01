@@ -12,3 +12,4 @@ Each folder in the `sites` directory will represent a site that links to the sam
 | linkedin | [https://linkedin.vait.au](https://linkedin.vait.au) |
 | yt       | [https://yt.vait.au](https://yt.vait.au)             |
 | cert     | [https://cert.vait.au](https://cert.vait.au)         |
+| links    | [https://links.vait.au](https://links.vait.au)       |
