@@ -5,9 +5,10 @@ Each folder in the `sites` directory will represent a site that links to the sam
 
 ## Directory
 
-| Dir  | Site                                         |
-| -----| -------------------------------------------- |
-| chat | [https://chat.vait.au](https://chat.vait.au) |
-| fb   | [https://fb.vait.au](https://fb.vait.au)     |
+| Dir      | Site                                                 |
+| -------- | ---------------------------------------------------- |
+| chat     | [https://chat.vait.au](https://chat.vait.au)         |
+| fb       | [https://fb.vait.au](https://fb.vait.au)             |
 | linkedin | [https://linkedin.vait.au](https://linkedin.vait.au) |
-| yt   | [https://yt.vait.au](https://yt.vait.au)     |
+| yt       | [https://yt.vait.au](https://yt.vait.au)             |
+| cert     | [https://cert.vait.au](https://cert.vait.au)         |
